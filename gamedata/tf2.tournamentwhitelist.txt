@@ -31,7 +31,6 @@
                 }
             }
 
-
             "CTFPlayer::GetLoadoutItem()::BypassTournamentRestriction"
             {
                 "signature"     "CTFPlayer::GetLoadoutItem()"
@@ -42,7 +41,6 @@
                     "verify"    "\x74\xC4"
                     "patch"     "\x90\x90"
                 }
-
             }
         }
     }
