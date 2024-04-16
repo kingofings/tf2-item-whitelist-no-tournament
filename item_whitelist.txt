@@ -1,0 +1,10 @@
+"item_whitelist"
+{
+	// Uncomment this line if you'd like unlisted items to be allowed by default
+	"unlisted_items_default_to"		"1"		
+	
+	"The Conscientious Objector"	"0"
+    "Photo Badge"	"0"
+    "Clan Pride"	"0"
+    "Flair!"	"0"
+}
