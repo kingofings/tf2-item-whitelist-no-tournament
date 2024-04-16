@@ -26,7 +26,7 @@
                 "linux"
                 {
                     "offset"    "34h"
-                    "verify"    "\x74\x53"
+                    "verify"    "\x74\x2A"
                     "patch"     "\x90\x90"
                 }
             }
@@ -37,7 +37,7 @@
                 "linux"
                 {
                     "offset"    "F0h"
-                    "verify"    "\x74\xC4"
+                    "verify"    "\x74\x2A"
                     "patch"     "\x90\x90"
                 }
             }
