@@ -1,5 +1,5 @@
 # tf2-item-whitelist-no-tournament
 Allows to use the tournament whitelist without needing mp_tournament set to 1
 
-#Dependencies
+# Dependencies
 [SourceScramble](https://github.com/nosoop/SMExt-SourceScramble) by [nosoop](https://github.com/nosoop)
