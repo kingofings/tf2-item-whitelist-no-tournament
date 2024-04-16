@@ -34,7 +34,6 @@
             "CTFPlayer::GetLoadoutItem()::BypassTournamentRestriction"
             {
                 "signature"     "CTFPlayer::GetLoadoutItem()"
-
                 "linux"
                 {
                     "offset"    "F0h"
