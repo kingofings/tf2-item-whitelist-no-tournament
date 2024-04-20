@@ -1,4 +1,3 @@
- 
 "Games"
 {
     "tf"
@@ -25,7 +24,7 @@
                 "signature"     "CEconItemSystem::ReloadWhitelist()"
                 "linux"
                 {
-                    "offset"    "34h"
+                    "offset"    "2Fh"
                     "verify"    "\x74\x2A"
                     "patch"     "\x90\x90"
                 }
@@ -36,7 +35,7 @@
                 "signature"     "CTFPlayer::GetLoadoutItem()"
                 "linux"
                 {
-                    "offset"    "F0h"
+                    "offset"    "128h"
                     "verify"    "\x74\x2A"
                     "patch"     "\x90\x90"
                 }
